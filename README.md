@@ -1,6 +1,9 @@
 Name: Mythreya Grandhe
+
 std id: 700757164
+
 Description:
+
 Data Manipulation:
 
 a. Load the provided CSV file 'data.csv'.
